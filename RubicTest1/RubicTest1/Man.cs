@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace RubicTest1
 {
-    class Cat
+    class Man
     {
         public string name;
+        public string surename;
         public int age;
         public float width;
-        public bool isAlive;
+        public float height;
+        public bool isMale;
     }
 }

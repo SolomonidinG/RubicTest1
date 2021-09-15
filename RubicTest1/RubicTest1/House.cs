@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RubicTest1
 {
-    private class House
+    class House
     {
         private string type;
         private int skolkoStroili;
